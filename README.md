@@ -1,4 +1,3 @@
-https://www.cma-srilanka.org/sites/default/files/pub/job_gif2.gif
 <h1 align="center">Hi 👋, I'm Harsha Trivedi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.cma-srilanka.org/sites/default/files/pub/job_gif2.gif">
